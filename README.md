@@ -19,12 +19,6 @@ It supports both **command-line usage** and a **Python UI**, making it perfect f
 
 ---
 
-## Logo
-
-![PDFversa Logo](path/to/logo.png)
-
----
-
 ## Getting Started
 
 > This section will be added later.
