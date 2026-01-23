@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🚧 <strong>Coming soon:</strong> CLI commands, Python UI, usage examples, and full documentation.
+  🚧 <strong>Coming soon:</strong> CLI commands, GUI, usage examples, and full documentation.
 </p>
 
 # 📄🔁 PDFversa: Open-source PDF ↔ file converter
@@ -18,5 +18,5 @@ It supports both **command-line usage** and a **Python UI**, making it perfect f
 - Convert **PDF → other formats**
 - Convert **other formats → PDF**
 - Works as a **CLI tool**
-- Works as a **Python UI**
+- Works as a **GUI**
 - Designed for **speed, simplicity, and automation**
